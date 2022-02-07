@@ -5,7 +5,7 @@ user-agent: gsantovena
 
 sites:
   - name: Digifact Guatemala
-    url: https://felgtaws.digifact.com.gt/
+    url: https://felgtaws.digifact.com.gt/Identity/Account/Login
     expectedStatusCodes:
       - 200
       - 201
