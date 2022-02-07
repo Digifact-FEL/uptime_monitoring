@@ -19,7 +19,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   ##cname: demo.upptime.js.org
   baseUrl: /uptime_monitoring
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://felgtaws.digifact.com.gt/img/LogoDigifact.png
   name: Digifact Status
   introTitle: "**Digifact** status."
   introMessage: Digifact status for Guatemala, Panamá, and email service.
