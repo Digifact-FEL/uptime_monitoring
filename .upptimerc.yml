@@ -1,12 +1,21 @@
 # Change these first
 owner: Digifact-FEL
 repo: uptime_monitoring
+user-agent: gsantovena
 
 sites:
   - name: Digifact Guatemala
     url: https://felgtaws.digifact.com.gt/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
   - name: Digifact Panama
     url: https://tf.digifact.com.pa
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
   - name: Marge Datascan
     url: https://marge.datascan-site.com
 
