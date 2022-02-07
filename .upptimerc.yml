@@ -6,15 +6,9 @@ user-agent: gsantovena
 sites:
   - name: Digifact Guatemala
     url: https://felgtaws.digifact.com.gt
-      - 200
-      - 201
-      - 302
   - name: Digifact Panama
     url: https://tf.digifact.com.pa
     expectedStatusCodes:
-      - 200
-      - 201
-      - 302
   - name: Marge Datascan
     url: https://marge.datascan-site.com
 
@@ -27,9 +21,9 @@ status-website:
   ##cname: demo.upptime.js.org
   baseUrl: /uptime_monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Digifact
+  name: Digifact Status
   introTitle: "**Digifact** status."
-  introMessage: Digifact status.
+  introMessage: Digifact status for Guatemala, Panamá, and email service.
   navbar:
     - title: Status
       href: /
