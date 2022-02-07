@@ -8,7 +8,6 @@ sites:
     url: https://felgtaws.digifact.com.gt
   - name: Digifact Panama
     url: https://tf.digifact.com.pa
-    expectedStatusCodes:
   - name: Marge Datascan
     url: https://marge.datascan-site.com
 
