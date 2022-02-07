@@ -1,22 +1,22 @@
 [
   {
     "name": "Digifact Guatemala",
-    "url": "https://felgtaws.digifact.com.gt/",
+    "url": "https://felgtaws.digifact.com.gt/Identity/Account/Login",
     "icon": "https://favicons.githubusercontent.com/felgtaws.digifact.com.gt",
     "slug": "digifact-guatemala",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-07": 20
+      "2022-02-07": 23
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 661,
-    "timeDay": 661,
-    "timeWeek": 661,
-    "timeMonth": 661,
-    "timeYear": 661,
+    "time": 719,
+    "timeDay": 719,
+    "timeWeek": 719,
+    "timeMonth": 719,
+    "timeYear": 719,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 684,
-    "timeWeek": 684,
-    "timeMonth": 684,
-    "timeYear": 684,
+    "time": 660,
+    "timeDay": 660,
+    "timeWeek": 660,
+    "timeMonth": 660,
+    "timeYear": 660,
     "dailyMinutesDown": {}
   }
 ]
