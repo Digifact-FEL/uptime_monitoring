@@ -4,12 +4,12 @@ repo: uptime_monitoring
 user-agent: gsantovena
 
 sites:
+  - name: Email Service - Datascan
+    url: https://marge.datascan-site.com
   - name: Digifact Guatemala
     url: https://felgtaws.digifact.com.gt
   - name: Digifact Panama
     url: https://tf.digifact.com.pa
-  - name: Marge Datascan
-    url: https://marge.datascan-site.com
 
 assignees:
   - gsantovena
