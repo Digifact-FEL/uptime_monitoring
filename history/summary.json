@@ -22,19 +22,19 @@
     "url": "https://felgtaws.digifact.com.gt",
     "icon": "https://favicons.githubusercontent.com/felgtaws.digifact.com.gt",
     "slug": "digifact-guatemala",
-    "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 661,
     "timeDay": 661,
     "timeWeek": 661,
     "timeMonth": 661,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2022-02-07": 730
+      "2022-02-17": 0
     }
   },
   {
