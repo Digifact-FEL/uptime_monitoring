@@ -4,19 +4,19 @@
     "url": "https://marge.datascan-site.com",
     "icon": "https://favicons.githubusercontent.com/marge.datascan-site.com",
     "slug": "email-service-datascan",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 739,
-    "timeDay": 588,
-    "timeWeek": 730,
-    "timeMonth": 739,
-    "timeYear": 739,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 721,
+    "timeDay": 507,
+    "timeWeek": 677,
+    "timeMonth": 721,
+    "timeYear": 721,
     "dailyMinutesDown": {
-      "2022-02-19": 11
+      "2022-02-19": 0
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/felgtaws.digifact.com.gt",
     "slug": "digifact-guatemala",
     "status": "down",
-    "uptime": "14.10%",
+    "uptime": "13.97%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "14.10%",
-    "uptimeMonth": "14.10%",
-    "uptimeYear": "14.10%",
+    "uptimeWeek": "13.97%",
+    "uptimeMonth": "13.97%",
+    "uptimeYear": "13.97%",
     "time": 661,
     "timeDay": 0,
     "timeWeek": 661,
     "timeMonth": 661,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2022-02-19": 1371,
+      "2022-02-19": 1409,
       "2022-02-18": 1440,
       "2022-02-17": 561
     }
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 662,
-    "timeDay": 266,
-    "timeWeek": 749,
-    "timeMonth": 662,
-    "timeYear": 662,
+    "time": 648,
+    "timeDay": 256,
+    "timeWeek": 753,
+    "timeMonth": 648,
+    "timeYear": 648,
     "dailyMinutesDown": {}
   }
 ]
