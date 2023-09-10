@@ -1,7 +1,7 @@
 url: https://marge.datascan-site.com
-status: up
-code: 200
-responseTime: 393
-lastUpdated: 2023-09-09T23:11:13.411Z
+status: down
+code: 502
+responseTime: 385
+lastUpdated: 2023-09-10T01:38:48.381Z
 startTime: 2022-02-07T05:20:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
