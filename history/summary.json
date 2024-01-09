@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.96%",
     "time": 962,
-    "timeDay": 661,
-    "timeWeek": 606,
-    "timeMonth": 785,
+    "timeDay": 570,
+    "timeWeek": 600,
+    "timeMonth": 784,
     "timeYear": 1107,
     "dailyMinutesDown": {
       "2023-12-02": 800,
@@ -48,10 +48,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 465,
-    "timeDay": 586,
-    "timeWeek": 380,
-    "timeMonth": 432,
-    "timeYear": 437,
+    "timeDay": 598,
+    "timeWeek": 374,
+    "timeMonth": 416,
+    "timeYear": 438,
     "dailyMinutesDown": {
       "2023-11-03": 35,
       "2023-10-30": 70,
@@ -66,16 +66,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tf.digifact.com.pa.ico",
     "slug": "digifact-panama",
     "status": "up",
-    "uptime": "42.77%",
+    "uptime": "42.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "32.16%",
+    "uptimeYear": "32.43%",
     "time": 339,
-    "timeDay": 504,
-    "timeWeek": 354,
-    "timeMonth": 307,
-    "timeYear": 323,
+    "timeDay": 488,
+    "timeWeek": 347,
+    "timeMonth": 309,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2023-09-28": 1034,
       "2023-09-27": 52,
@@ -324,8 +324,7 @@
       "2023-01-13": 1440,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
-      "2023-01-10": 1440,
-      "2023-01-09": 1440
+      "2023-01-10": 1440
     }
   }
 ]
