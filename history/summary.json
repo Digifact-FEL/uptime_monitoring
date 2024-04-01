@@ -7,16 +7,17 @@
     "status": "down",
     "uptime": "98.46%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.71%",
-    "uptimeMonth": "95.10%",
-    "uptimeYear": "97.48%",
+    "uptimeWeek": "77.97%",
+    "uptimeMonth": "94.93%",
+    "uptimeYear": "97.46%",
     "time": 1015,
     "timeDay": 0,
     "timeWeek": 486,
     "timeMonth": 1592,
     "timeYear": 1178,
     "dailyMinutesDown": {
-      "2024-03-31": 1398,
+      "2024-04-01": 32,
+      "2024-03-31": 1440,
       "2024-03-30": 728,
       "2024-03-26": 20,
       "2024-02-23": 67,
@@ -72,17 +73,16 @@
     "slug": "digifact-panama",
     "status": "up",
     "uptime": "48.90%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "54.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "54.90%",
     "time": 317,
     "timeDay": 155,
     "timeWeek": 195,
     "timeMonth": 267,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2024-03-31": 4,
       "2023-09-28": 1034,
       "2023-09-27": 52,
       "2023-09-16": 852,
@@ -247,8 +247,7 @@
       "2023-04-06": 1440,
       "2023-04-05": 1440,
       "2023-04-04": 1440,
-      "2023-04-03": 1440,
-      "2023-04-02": 1440
+      "2023-04-03": 1440
     }
   }
 ]
