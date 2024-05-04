@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "97.28%",
-    "time": 1040,
-    "timeDay": 437,
-    "timeWeek": 680,
-    "timeMonth": 1016,
+    "time": 1041,
+    "timeDay": 847,
+    "timeWeek": 707,
+    "timeMonth": 1029,
     "timeYear": 1211,
     "dailyMinutesDown": {
       "2024-04-25": 79,
@@ -39,8 +39,7 @@
       "2023-08-19": 16,
       "2023-07-03": 971,
       "2023-07-02": 1440,
-      "2023-07-01": 1314,
-      "2023-05-05": 35
+      "2023-07-01": 1314
     }
   },
   {
@@ -54,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 425,
-    "timeDay": 300,
-    "timeWeek": 847,
-    "timeMonth": 489,
-    "timeYear": 410,
+    "time": 426,
+    "timeDay": 613,
+    "timeWeek": 850,
+    "timeMonth": 502,
+    "timeYear": 409,
     "dailyMinutesDown": {
       "2023-11-03": 35,
       "2023-10-30": 70,
@@ -71,15 +70,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tf.digifact.com.pa.ico",
     "slug": "digifact-panama",
     "status": "up",
-    "uptime": "50.90%",
+    "uptime": "50.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.67%",
+    "uptimeYear": "63.94%",
     "time": 314,
-    "timeDay": 244,
-    "timeWeek": 364,
-    "timeMonth": 288,
+    "timeDay": 491,
+    "timeWeek": 372,
+    "timeMonth": 293,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2023-09-28": 1034,
@@ -213,8 +212,7 @@
       "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
-      "2023-05-06": 1440,
-      "2023-05-05": 1440
+      "2023-05-06": 1440
     }
   }
 ]
