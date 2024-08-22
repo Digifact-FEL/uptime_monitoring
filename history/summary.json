@@ -6,9 +6,9 @@
     "slug": "email-service-datascan",
     "status": "up",
     "uptime": "97.98%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "75.93%",
-    "uptimeMonth": "93.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "76.08%",
+    "uptimeMonth": "93.49%",
     "uptimeYear": "96.35%",
     "time": 1155,
     "timeDay": 416,
@@ -16,7 +16,6 @@
     "timeMonth": 436,
     "timeYear": 1276,
     "dailyMinutesDown": {
-      "2024-08-21": 15,
       "2024-08-19": 1123,
       "2024-08-18": 1289,
       "2024-08-13": 377,
@@ -87,7 +86,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.06%",
+    "uptimeYear": "94.07%",
     "time": 323,
     "timeDay": 525,
     "timeWeek": 316,
@@ -118,8 +117,7 @@
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
-      "2023-08-24": 1440,
-      "2023-08-23": 1440
+      "2023-08-24": 1440
     }
   }
 ]
