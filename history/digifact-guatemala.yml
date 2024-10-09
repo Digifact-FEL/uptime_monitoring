@@ -1,7 +1,7 @@
 url: https://felgtaws.digifact.com.gt
-status: up
-code: 200
-responseTime: 936
-lastUpdated: 2024-10-08T23:16:55.867Z
+status: down
+code: 503
+responseTime: 228
+lastUpdated: 2024-10-09T01:48:57.344Z
 startTime: 2022-02-17T05:25:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
